@@ -72,3 +72,8 @@ group :test do
 end
 
 gem "hotwire-rails", "~> 0.1.3"
+
+gem "devise", "~> 4.8"
+
+gem "tailwindcss-rails", "~> 2.0"
+gem "heroicon", "~> 1.0"
