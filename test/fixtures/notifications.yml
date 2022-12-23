@@ -1,0 +1,13 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  item: one
+  item_type: Item
+  user: one
+  viewed: false
+
+two:
+  item: two
+  item_type: Item
+  user: two
+  viewed: false
