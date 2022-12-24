@@ -77,3 +77,5 @@ gem "devise", "~> 4.8"
 
 gem "tailwindcss-rails", "~> 2.0"
 gem "heroicon", "~> 1.0"
+
+gem "view_component", "~> 2.80"
