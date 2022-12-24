@@ -1,0 +1,5 @@
+
+
+<%= turbo_stream.append "posts" do %>
+  <%= render(PostComponent.new(post: @post))%>
+<% end %>
